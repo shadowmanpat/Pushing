@@ -11,6 +11,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
     public void TestUpload(){
+        //3+3
+        boolean alitheia=true;
         int i=0;
 
         i++;
