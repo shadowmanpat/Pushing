@@ -14,6 +14,16 @@ public class MainActivity extends AppCompatActivity {
         int i=0;
 
         i++;
+        String test="test";
     }
-}//f
+    public void TestUpload2(){
+        int i=0;
+
+        i++;
+        String test="test";
+    }
+
+}
+//Branch)3
+
 //branch01
