@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         int i=0;
 
         i++;
-        String test="test";
+        String test2="test2";
     }
 
 }
